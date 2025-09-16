@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Lập Trình C# Cơ Bản</title>
+        <author>Nguyễn Văn A</author>
+        <year>2021</year>
+        <genre>Công nghệ thông tin</genre>
+    </sach>
+    <sach>
+        <title>Truyện Kiều</title>
+        <author>Nguyễn Du</author>
+        <year>1820</year>
+        <genre>Văn học</genre>
+    </sach>
+    <sach>
+        <title>Hành Trình Về Phương Đông</title>
+        <author>Baird T. Spalding</author>
+        <year>1973</year>
+        <genre>Tâm linh</genre>
+    </sach>
+</thuvien>
